@@ -1,5 +1,5 @@
 # Norwegian-Housing-Data
-This repository contains data from the Norwegian housing market and the scripts used to get them
+This repository contains data from the Norwegian housing market.
 
 The variable names are self explaining. Mind that the data is not completely clean, this is something I will work on in the future.
 
