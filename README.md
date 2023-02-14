@@ -8,7 +8,7 @@ I try to update the data daily
 
 # Citation
 If you use these data please include the citation below:
-- Berasategui Gallego, J (2023). Norwegian Housing Data. Retrived from: https://github.com/juanberasategui/Norwegian-Housing-Data
+- Berasategui Gallego, J (2023). Norwegian Housing Data. Retrieved from: https://github.com/juanberasategui/Norwegian-Housing-Data
 
 # Contact
 - juan.gallego@student.nhh.no
