@@ -1,4 +1,6 @@
 # Norwegian-Housing-Data
+The data has been extracted from finn.no and all the rights remain to them.
+
 This repository contains data from the Norwegian housing market.
 
 This project and the data, have only an educational goal. The data are not extracted with commercial purposes and should not be used as such.
