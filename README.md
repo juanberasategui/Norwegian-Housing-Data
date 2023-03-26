@@ -7,8 +7,6 @@ This project and the data, have only an educational goal. The data are not extra
 
 Mind that the data is not completely clean, this is something I will work on in the future.
 
-# Updating the data
-I try to update the data daily 
 
 # Citation
 If you use these data please include the citation below:
